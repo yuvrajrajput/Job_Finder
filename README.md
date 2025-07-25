@@ -110,12 +110,4 @@ CareerBoost leverages four specialized AI agents, each designed for a specific t
   - Generates ATS-friendly CVs with a single LLM call.
   - Customizes content based on user input, ensuring relevance to the job field.
 
----
-
-## Get In Touch
-   - We’d love to hear from you! Whether you have questions, feedback, or just want to chat, reach out to us anytime.
-   - 📧 **Email**: [musabbirmushu@gmail.com](mailto:musabbirmushu@gmail.com)  
-   - 💼 **LinkedIn**: [CareerBoost LinkedIn](https://www.linkedin.com/in/muhammed-musabbir-km-0302b8212utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_appt)
-   - 🌐 **Website**: [www.careerboost.ai](https://omnicipher.onrender.com)  
-   - ⌨️ **GitHub**: [CareerBoost GitHub](https://github.com/musabbirkm)
        
